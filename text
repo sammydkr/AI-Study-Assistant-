@@ -1,0 +1,16 @@
+ai-study-assistant/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── README.md
+├── backend/
+│   ├── app/
+│   ├── tests/
+│   ├── Dockerfile
+│   └── requirements.txt
+├── docker-compose.yml
+├── .github/
+│   └── workflows/
+├── README.md
+└── .env.example
